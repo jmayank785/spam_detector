@@ -2,15 +2,10 @@
 """
 Created on Wed Jun 19 10:55:55 2019
 
-@author: Sahil
+@author: Mayank
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 18 10:21:45 2019
 
-@author: Sahil
-"""
 #Importing Libraries
 
 import numpy as np
